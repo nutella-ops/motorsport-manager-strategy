@@ -1,0 +1,24 @@
+japan-B   [brake,   fWing, sus]		    [FueL/vL,  Tire/M,   Lap/33] 	track-B
+dubai-C   [engine,  brake, rWing] 	    [FueL/M,   Tire/vL,  Lap/31] 	track-C
+brazil-B  [engine,  rWing, {trans}]     [FueL/vH, Tire/M,    Lap/26] 	track-B
+straya-A  [trans,   fWing, {engine}] 	[FueL/M,   Tire/H,   Lap/24] 	track-A
+canada-A  [sus,     rWing, {engine}] 	[FueL/H,  Tire/ H,   Lap/26]	track-A
+usa-A     [engine,  rWing, {trans}]	    [FueL/M,   Tire/L,   Lap/43] 	track-A
+
+                    ##
+                     out of 10 ##
+sus,    2           #6 (max)
+brake,  2           #4
+trans,  1 +{2}      #3
+rWing,  4           #2 (max)
+fWing,  2           #2
+engine, 3 +{2}      spec 
+
+
+
+
+## out of 5 ##
+Tire Wear,  3.25
+Tire Heat,  3
+Fuel Eff.,  2.25
+Improve,    2.25
